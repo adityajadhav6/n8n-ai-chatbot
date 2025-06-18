@@ -19,7 +19,7 @@ This project showcases my first AI-powered chatbot built with [n8n](https://n8n.
 
 ## 🖼️ Workflow Screenshots
 
-![Workflow Screenshot](assets/workflow-screenshot-1.png)
+![Workflow Screenshot](assets/workflow-screenshot-1.png) (assets/workflow-screenshot-2.png)
 
 ## 🚀 How to Run
 1. Import the JSON file in your local or hosted n8n instance
